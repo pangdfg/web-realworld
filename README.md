@@ -20,32 +20,17 @@ To install the project on your computer, follow these steps:
 cd web-realworld
 ```
 
-3. Install project dependencies by running the command : <br />
-   3.1 install npm backeend terminal 1
+3. Install project dependencies by running the command and run the project: <br />
+   3.1 backeend in terminal 1
    ```console
     cd backend
-    npm install
    ```
+   and follow the details as follows [link](https://github.com/pongsapak-suwa/web-realworld/blob/main/backend/README.md)
    
-   3.2 install npm frontend terminal 2
+   3.2 frontend in terminal 2
    
     ```console
-    cd backend
-    npm install
+    cd frontend
     ```
-4. run the project : <br />
-   4.1 run the project(backeend)
-    ```console
-    npm run dev
-   ```
-    for dev mode and
-   ```console
-    npm run start
-   ```
-   for regualr mode
-    
-   4.2 run the project(frontend)
-    ```console
-    npm npm run dev
-   ```
-    to start the local server (this project Vite)
+    and follow the details as follows [link](https://github.com/pongsapak-suwa/web-realworld/blob/main/frontend/README.md)
+
