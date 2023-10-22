@@ -24,7 +24,6 @@ DATABASE_URI = 'mongodb api'
 NODE_ENV = "start"
 
 ACCESS_TOKEN_SECRET = "supersecretkey_example"
-REFRESH_TOKEN_SECRET = "refreshsecretkey_example"
 PORT = 8080
 ```
 
