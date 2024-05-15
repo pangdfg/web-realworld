@@ -85,8 +85,10 @@ const userLogin = asyncHandler(async (req, res) => {
 
     if (!match) return res.status(401).json({ message: 'Unauthorized: Wrong password' })
 
+
     res.status(200).json({
-        user: loginUser.toUserResponse()
+        user: loginUser.toUserResponse(),
+
     });
 
 });
