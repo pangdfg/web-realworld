@@ -1,9 +1,9 @@
 # web-realworld
-![image](https://github.com/pongsapak-suwa/web-realworld/assets/94011063/4f3bfd87-bc4a-48b4-a6b2-48e9d1a6c4fd)
+![image](https://github.com/pangdfg/web-realworld/assets/94011063/4f3bfd87-bc4a-48b4-a6b2-48e9d1a6c4fd)
 
 ---
 
-![image](https://github.com/pongsapak-suwa/web-realworld/assets/94011063/cfd598ef-89e4-4ffc-9b38-3278a355c65b)
+![image](https://github.com/pangdfg/web-realworld/assets/94011063/cfd598ef-89e4-4ffc-9b38-3278a355c65b)
 
 > ## React + Vite / Express.js + MongoDB + JavaScript containing and codebase real world examples (CRUD, auth, advanced patterns, etc)
 >  that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
@@ -25,12 +25,12 @@ cd web-realworld
    ```console
     cd backend
    ```
-   and follow the details as follows [link](https://github.com/pongsapak-suwa/web-realworld/blob/main/backend/README.md)
+   and follow the details as follows [link](https://github.com/pangdfg/web-realworld/blob/main/backend/README.md)
    
    3.2 frontend in terminal 2
    
     ```console
     cd frontend
     ```
-    and follow the details as follows [link](https://github.com/pongsapak-suwa/web-realworld/blob/main/frontend/README.md)
+    and follow the details as follows [link](https://github.com/pangdfg/web-realworld/blob/main/frontend/README.md)
 
