@@ -13,7 +13,7 @@ To install the project on your computer, follow these steps:
 
 1. Clone the repository to your local machine.
   ```console
- git clone https://github.com/pongsapak-suwa/web-realworld.git
+ git clone https://github.com/pangdfg/web-realworld.git
   ```
 2. Navigate to the project directory.
 ```console
